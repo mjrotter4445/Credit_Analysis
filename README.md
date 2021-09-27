@@ -14,7 +14,7 @@ loan agent.
 -  Data sources:  **LoanStats_2019.csv** (very large data file)
 -  Sofware: **Jupyter Notebook**
 -  Languages: **Python**
--  Libraries: **SKLearn/Scikit-learn**, **Pandas**, **Maptplotlib**
+-  Libraries: **SKLearn/Scikit-learn**, **Pandas**, **Matplotlib**
 -  Environment: **Python 3.7**
  
 ## Executive Brief  
