@@ -11,7 +11,7 @@ learning models and determine how well a model classifies and predicts data.   T
 loan agent.  
 
 #### Resources: 
--  Data sources:  **LoanStats_2019.csv** (very large data file)
+-  Data sources:  **LoanStats_2019.csv** (very large data file - zipped and included in this repository)
 -  Sofware: **Jupyter Notebook**
 -  Languages: **Python**
 -  Libraries: **SKLearn/Scikit-learn**, **Pandas**, **Matplotlib**
