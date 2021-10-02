@@ -99,7 +99,7 @@ SMOTEENN is an approach to resampling that combines aspects of both oversampling
 -   **Recall - for low risk**:  0.57
 
 <p align="center">
-  <img width="550" height="700" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/Fig4.jpg">
+  <img width="550" height="700" src="https://github.com/mjrotter4445/Credit_Analysis/blob/main/Graphics/Fig4.jpg">
 </p>
 <p align="center">
 Figure 4-Results for SMOTTEENN Model  
