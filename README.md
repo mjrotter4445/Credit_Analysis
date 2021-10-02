@@ -82,7 +82,7 @@ increasing the number of the miniority class, the size of the majority class is 
 -   **Recall - for low risk**:  0.40
 
 <p align="center">
-  <img width="550" height="700" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/Fig3.jpg">
+  <img width="550" height="700" src="https://github.com/mjrotter4445/Credit_Analysis/blob/main/Graphics/Fig3.jpg">
 </p>
 <p align="center">
 Figure 3-Results for Cluster Centroids Undersampling
