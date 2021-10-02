@@ -118,7 +118,7 @@ trees.  Each tree is simpler because it is built from a random subset of feature
 -   **Recall - for low risk**:  0.87
 
 <p align="center">
-  <img width="550" height="700" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/Fig5.jpg">
+  <img width="550" height="700" src="https://github.com/mjrotter4445/Credit_Analysis/blob/main/Graphics/Fig5.jpg">
 </p>
 <p align="center">
 Figure 5-Results for Random Forest Classifier Model 
