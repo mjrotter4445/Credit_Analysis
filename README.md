@@ -8,7 +8,7 @@ Cluster Centroids, Oversampling & Undersampling).  We will use several models of
 top predict credit risk.  Credit risk is an inherently unbalanced classification problem, and risky loans outnumber good loans.  We will 
 use Python and Scikit-learn libraries and several machine learning models to compare the strengths and weeknesses of machine 
 learning models and determine how well a model classifies and predicts data.   This technique and information will minimize risk for 
-loan agent.  
+the loan agent.  
 
 #### Resources: 
 -  Data sources:  **LoanStats_2019.csv** (very large data file - zipped and included in this repository)
