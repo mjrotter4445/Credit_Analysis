@@ -5,7 +5,7 @@ For this project we are using several models of supervised Machine Learning on c
 loan data in order to predict credit risk.    We used Python Sickit-learn library and several machine
 learnings models (Supervised Machine Learning Models - Logistic Regression, Random Forest, AdaBoost Classfier,
 Cluster Centroids, Oversampling & Undersampling).  We will use several models of supervised machine learning on credit loan data in order 
-top predict credit risk.  Credit risk is an inherently unbalanced classification problem, and risky loans outnumber good loans.  We will 
+to predict credit risk.  Credit risk is an inherently unbalanced classification problem, and risky loans outnumber good loans.  We will 
 use Python and Scikit-learn libraries and several machine learning models to compare the strengths and weeknesses of machine 
 learning models and determine how well a model classifies and predicts data.   This technique and information will minimize risk for 
 the loan agent.  
@@ -25,7 +25,7 @@ After the data is resampled, **Logistic Regression** is used to predict the outc
 regression predicts binary outcomes (A) (in one class or another). 
 The last two models are from ensemble learning group.  The concept of ensemble learning is the 
 process of combining multiple models, like decision tree algorithms, to help improve the accuracy
- and robustness, as well as decrease variance of the model, and therefore increase the overall 
+and robustness, as well as decrease variance of the model, and therefore increase the overall 
 performance of the model(F).   
 
 ##  Deliverable 1, (A-C) - Three Algorithms for Prediction including: 
@@ -102,7 +102,7 @@ SMOTEENN is an approach to resampling that combines aspects of both oversampling
   <img width="550" height="700" src="https://github.com/mjrotter4445/Credit_Analysis/blob/main/Graphics/Fig4.jpg">
 </p>
 <p align="center">
-Figure 4-Results for SMOTTEENN Model  
+Figure 4-Results for SMOTEENN Model  
 </p>
 
 ##  Deliverable 3 - (A & B) 
