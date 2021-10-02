@@ -45,7 +45,7 @@ classes are balanced(B).
 -   **Recall - for low risk**:  0.59
 
 <p align="center">
-  <img width="550" height="700" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/Fig1.jpg">
+  <img width="550" height="700" src="https://github.com/mjrotter4445/Credit_Analysis/blob/main/Graphics/Fig1.jpg">
 </p>
 <p align="center">
 Figure 1-Results for Naive Random Oversampling
