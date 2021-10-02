@@ -3,7 +3,7 @@
 ## Project Overview 
 For this project we are using several models of supervised Machine Learning on credit 
 loan data in order to predict credit risk.    We used Python Sickit-learn library and several machine
-learnings models (Supervised Machine Learning Models - Logistic Regression, Random Forest, AdaBoost Classfier,
+learning models (Supervised Machine Learning Models - Logistic Regression, Random Forest, AdaBoost Classfier,
 Cluster Centroids, Oversampling & Undersampling).  We will use several models of supervised machine learning on credit loan data in order 
 to predict credit risk.  Credit risk is an inherently unbalanced classification problem, and risky loans outnumber good loans.  We will 
 use Python and Scikit-learn libraries and several machine learning models to compare the strengths and weeknesses of machine 
