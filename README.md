@@ -64,7 +64,7 @@ created(C & E)
 -   **Recall - for low risk**:  0.69
 
 <p align="center">
-  <img width="550" height="700" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/Fig2.jpg">
+  <img width="550" height="700" src="https://github.com/mjrotter4445/Credit_Analysis/blob/main/Graphics/Fig2.jpg">
 </p>
 <p align="center">
 Figure 2-Results for SMOTE Oversampling
