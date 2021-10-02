@@ -135,7 +135,7 @@ In **AdaBoost Classifier**, a model is trained then evaluated(I).
 -   **Recall - for low risk**:  0.94
 
 <p align="center">
-  <img width="550" height="700" src="https://github.com/mjrotter4445/Working-File/blob/main/Graphics/Fig6.jpg">
+  <img width="550" height="700" src="https://github.com/mjrotter4445/Credit_Analysis/blob/main/Graphics/Fig6.jpg">
 </p>
 <p align="center">
 Figure 6-Easy Ensemble AdaBoost Classifier Model  
